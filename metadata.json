@@ -1,0 +1,6 @@
+{
+  "name": "Radiology Education Platform",
+  "description": "Professional Telegram Education Platform backend foundation with FastAPI, aiogram 3, SQLAlchemy, Alembic, and first-run Setup Wizard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
