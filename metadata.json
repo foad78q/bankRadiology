@@ -1,6 +1,6 @@
 {
-  "name": "Radiology Education Platform",
-  "description": "Professional Telegram Education Platform backend foundation with FastAPI, aiogram 3, SQLAlchemy, Alembic, and first-run Setup Wizard.",
+  "name": "Telegram Forwarder Bot",
+  "description": "پلتفرم هوشمند مانیتورینگ و انتقال خودکار پست‌های کانال‌ها و گروه‌های تلگرام به کانال مقصد با پشتیبانی کامل آلبوم و فرمت پیام",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
